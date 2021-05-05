@@ -1,6 +1,6 @@
 # To Do List
 
-A simple To Do list app using Flutter. The app saves the tasks in the device's memories, as well as the user name.
+A simple To Do list app using Flutter.
 
 ## 📝 Table of Contents
 - [About](#about)
